@@ -29,6 +29,7 @@
 ## 🤳 Connect with me:
 
 [<img align="left" alt="abdulmuizz-wahab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://linkedin.com/in/abdulmuizz-wahab
 
 [gmail.com]: wahababdulmuizz85@gmail.com
