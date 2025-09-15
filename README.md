@@ -11,7 +11,7 @@
 
 ## 👨‍💻 (Homelab) Secure Programming Projects
 - Password Manager System (Cryptography)
-  - [Praciting Encryption and Hashing in Python](https://github.com/ok3tty/Cyber)
+  - [Practicing Encryption and Hashing in Python](https://github.com/ok3tty/Cyber)
 - Intrustion Detection System (IDS)
   - [Implementing/Practicing IDS)](https://github.com/ok3tty/Cyber)
 - Network Scanner
@@ -31,6 +31,8 @@
 [<img align="left" alt="abdulmuizz-wahab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/abdulmuizz-wahab
+
+[<img align="left" alt="abdulmuizz-wahab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
 
 [gmail.com]: wahababdulmuizz85@gmail.com
 
