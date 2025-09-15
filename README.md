@@ -24,9 +24,8 @@
 (HomeLab) Graylog SIEM Project:
   - GrayLog
     - [Configuring GrayLog and Creating Basic Dashboard Inputs)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-
-## 🤳 Connect with me:
+   
+## 🤳 Contact
 
 [<img align="left" alt="abdulmuizz-wahab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -35,6 +34,8 @@
 [<img align="left" alt="abdulmuizz-wahab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
 
 [gmail.com]: wahababdulmuizz85@gmail.com
+
+
 
 <!--
 
