@@ -26,14 +26,8 @@
     - [Configuring GrayLog and Creating Basic Dashboard Inputs)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
    
 ## 🤳 Contact
-
-[<img align="left" alt="abdulmuizz-wahab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/abdulmuizz-wahab
-
-[<img align="left" alt="abdulmuizz-wahab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
-
-[gmail.com]: wahababdulmuizz85@gmail.com
+Linkedin: https://linkedin.com/in/abdulmuizz-wahab
+Email: wahababdulmuizz85@gmail.com
 
 
 
