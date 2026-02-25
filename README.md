@@ -16,6 +16,10 @@
   - [Implementing/Practicing IDS)](https://github.com/ok3tty/Cyber)
 - Network Scanner
   - [Understanding Basic Network Analysis](https://github.com/ok3tty/Cyber)
+ 
+ ## (Information Technology) Projects:
+ - IT Audit Simulation
+   - [Mock IT Audit and Report Simulation](https://github.com/ok3tty/it-audit-sim)
 
 ## 🌱 I’m currently learning/Working on:
 (HomeLab) Python:
