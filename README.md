@@ -20,6 +20,9 @@
  ## (Information Technology) Projects:
  - IT Audit Simulation
    - [Mock IT Audit and Report Simulation](https://github.com/ok3tty/it-audit-sim)
+  
+ - (Homelab) Microsoft Azure Threat Monitor
+   - [Threat Monitor Detection](https://github.com/ok3tty/Azure-Threat-Monitor)
 
 ## 🌱 I’m currently learning/Working on:
 (HomeLab) Python:
