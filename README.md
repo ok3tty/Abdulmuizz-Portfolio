@@ -28,9 +28,6 @@
 (HomeLab) Python:
   - HoneyPot
     - [Creating and Understanding a HoneyPot with Python](https://github.com/ok3tty/Cyber)
-(HomeLab) Graylog SIEM Project:
-  - GrayLog
-    - [Configuring GrayLog and Creating Basic Dashboard Inputs)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
    
 ## 🤳 Contact
 Linkedin: https://linkedin.com/in/abdulmuizz-wahab
