@@ -23,6 +23,7 @@
   
  - (Homelab) Microsoft Azure Threat Monitor
    - [Threat Monitor Detection](https://github.com/ok3tty/Azure-Threat-Monitor)
+   - [Terraform Sentinel](https://github.com/ok3tty/terraform-azure-sentinel)
 
 ## 🌱 I’m currently learning/Working on:
 (HomeLab) Python:
