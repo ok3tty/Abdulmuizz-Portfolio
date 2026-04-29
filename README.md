@@ -9,6 +9,10 @@
 - Colorstack | Member (Status): Active: Embarked in general body meetings and workshops
 - UTA Archery Club | Member (Status): Active: Currently the head coach of archery club in charge of schedule/practice-drill creations and implementation.
 
+## University Security-based Projects
+ - (Capstone Project ) Personal Security Information and Event Management (SIEM) System
+   - [PSIEM](https://github.com/ok3tty/PSIEM)
+  
 ## 👨‍💻 (Homelab) Secure Programming Projects
 - Password Manager System (Cryptography)
   - [Practicing Encryption and Hashing in Python](https://github.com/ok3tty/Cyber)
@@ -24,9 +28,7 @@
  - (Homelab) Microsoft Azure Threat Monitor
    - [Threat Monitor Detection](https://github.com/ok3tty/Azure-Threat-Monitor)
    - [Terraform Sentinel](https://github.com/ok3tty/terraform-azure-sentinel)
-  
- - (Capstone Project ) Personal Security Information and Event Management (SIEM) System
-   - [PSIEM](https://github.com/ok3tty/PSIEM)
+ 
 
 ## 🌱 I’m currently learning/Working on:
 (HomeLab) Python:
