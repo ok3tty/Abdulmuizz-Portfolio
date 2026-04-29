@@ -24,6 +24,9 @@
  - (Homelab) Microsoft Azure Threat Monitor
    - [Threat Monitor Detection](https://github.com/ok3tty/Azure-Threat-Monitor)
    - [Terraform Sentinel](https://github.com/ok3tty/terraform-azure-sentinel)
+  
+ - (Capstone Project ) Personal Security Information and Event Management (SIEM) System
+   - [PSIEM](https://github.com/ok3tty/PSIEM)
 
 ## 🌱 I’m currently learning/Working on:
 (HomeLab) Python:
